@@ -1,0 +1,12 @@
+{
+    "categoryapi":[
+        {
+            "id":"1",
+            "catname":"Mobile"
+        }
+    ],
+    "productapi":[],
+    "cartapi":[],
+    "sellerapi":[],
+    "orderapi":[]
+}
